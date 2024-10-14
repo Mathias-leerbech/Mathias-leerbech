@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center"> I am a passionate data scientist/analyst from Denmark Copenhagen </h3>
 
-<h5 align="left"> I'm interest in using state-of-the-art data science methods in order to analyse data, either small or large data, preferably large. <br>\
+<h5 align="left"> I'm interest in using state-of-the-art data science methods in order to analyse data, either small or large data, preferably large. <br>
 I have a bachelors degree in Economics from Copenhagen University and I studied one year on the masters, but I wanted to develop (pun intended) some more, so I decided to start on the master in Social Data Science also at Copenhagen University.
 
 
