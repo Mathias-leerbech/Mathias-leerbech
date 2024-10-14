@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Mathias-leerbech
+
 
 <!---
 Mathias-leerbech/Mathias-leerbech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Mathias Bille Leerbech</h1>
+<h1 align="center">Hi I'm Mathias Bille Leerbech</h1>
 
 <h3 align="center"> I am a passionate data scientist/analyst from Denmark Copenhagen </h3>
 
